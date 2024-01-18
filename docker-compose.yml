@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : chandumpu/my-note-app:latest
+     image : chandumpu/notes-app:latest
      ports :
          - "8000:8000"
